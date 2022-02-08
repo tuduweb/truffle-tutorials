@@ -1,2 +1,2 @@
-python3 ./check.py > /dev/null
+python3 ./checkFiles.py > /dev/null
 echo $?
